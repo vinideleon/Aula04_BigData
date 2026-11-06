@@ -1,0 +1,12 @@
+#Maior > . Menor < . Maior igual >= . menor iguais <= . Iguais == 
+
+# Maior idade
+idade = int(input('informe sua idade '))
+
+if idade >= 18:
+    print('você é maior de idade')
+    
+else:
+    print('você é menor de idade')
+
+print('programa encerrado')
